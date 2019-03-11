@@ -8,7 +8,7 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Creasanit</h1>
+        <h1>Crea sanit</h1>
         <p>
           Crea Sanit est une entreprise de plomberie installée au pian medoc.
           nous sommes présents sur toute la région afin de vous aider dans la
